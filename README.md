@@ -11,7 +11,7 @@ This project showcases an automated product sorting system using a Raspberry Pi,
 - **Cost-Effective**: Uses affordable hardware for powerful automation.
 - **Scalable Solution**: Adaptable for various industries and product types.
 
-##Technologies Used
+## Technologies Used
 - **Raspberry Pi:** The central processing unit for managing the system.
 - **Pi Camera:** Captures images of products for classification.
 - **Machine Learning Algorithms:** Used for image classification and recognition (e.g., TensorFlow, OpenCV).
